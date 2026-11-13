@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix ULTRON  - Supreme AI Ecosystem",
+  "description": "ULTRON (ULTRA) is an ultra-advanced super-assistant ecosystem with real-time web research, WhatsApp-style voice notes, interactive live animated red robot calling, dynamic voice switching, and free high-resolution AI image generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
